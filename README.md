@@ -43,9 +43,6 @@ The dataset is **not included** in this repository due to its large size (143 MB
 | 7 | Data preprocessing (scaling, train/test split) |
 | 8 | Train Logistic Regression and Decision Tree |
 | 9 | Evaluate models (Accuracy, Precision, Recall, F1, Confusion Matrix) |
-| 10 | Why accuracy alone is not enough |
-| 11 | Conclusion |
-
 ## Libraries Used
 
 - NumPy
